@@ -7,12 +7,213 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "School safety has been a worry for Emma Alvarez since she began her first year at A. Philip Randolph Campus High School in 2018. Now a first-year at the City College of New York, Alvarez reflected on the first Friday of her first year at A. Phillip Randolph, when a fight broke out."
+          },
+          {
+            "type": "text",
+            "value": "“I’m pretty sure they pulled a boy’s pants down,” Alvarez said of some students at her school. “Like his whole pelvis was shown. They also jumped a boy, they put another boy in a locker.”"
+          },
+          {
+            "type": "text",
+            "value": "Though she described being shocked at what happened that day, Alvarez said she felt prepared for what school life would be like at A. Philip Randolph. She described people from her middle school tagging her in videos of a “big brawl in the middle of the hallway,” signaling to her that conflict between students was a normal aspect of her then-future high school."
+          },
+          {
+            "type": "text",
+            "value": "“They always radio the security guards,” Alvarez said. “The security guards used to come. But I do know one thing for a fact was that one security guard was not enough to stop a fight.”"
+          },
+          {
+            "type": "text",
+            "value": "New York City public schools have various safety measures in place. This includes school safety agents—who are members of the New York Police Department, metal detectors, gang prevention programs, and lateness policies, according to the New York City Department of Education’s website."
+          },
+          {
+            "type": "text",
+            "value": "In addition to school safety agents, some schools have metal detectors designed to recognize weapons and other dangerous items. Current DOE protocols on metal detectors have sparked concerns of discrimination and over-policing, leaving many students, parents, and advocates at odds over how best to address school safety."
+          },
+          {
+            "type": "text",
+            "value": "The issue of school fights, violence, and behavior Alvarez described were some of the issues of great concern for Tyler Campbell, CC ’22, program coordinator for the Justice Ambassadors Youth Council at the Columbia Center for Justice. In his role as council program manager, Campbell works closely with youth and has heard many firsthand accounts of the issues that students have with school safety measures."
+          },
+          {
+            "type": "text",
+            "value": "“NYPD is the largest police force, but they devote so much time and energy to school safety,” Campbell said. “It’s kind of this police state that has infiltrated so many schools and it’s overly prevalent, overly represented in Black and brown schools.”"
+          },
+          {
+            "type": "text",
+            "value": "The stigma that students of color are more violent and dangerous fuels the increased presence of metal detectors in certain schools, despite the machines’ limited effectiveness, Campbell said."
+          },
+          {
+            "type": "text",
+            "value": "Campbell believes that the discrepancy in school safety measures is related to the city’s historic “tough on crime” stance, a set of policies which he thinks have been intensified by Mayor Eric Adams’ time in office. He said current school safety policies fail to address deep-rooted issues that many students face related to bullying and violence in their communities and may exacerbate behavioral and attendance issues."
+          },
+          {
+            "type": "text",
+            "value": "“We’re devoting funding to [metal detectors] and that’s what we’re doing, right? But nobody’s talking about, ‘Why are these kids carrying these weapons to school in the first place?’” Campbell said."
+          },
+          {
+            "type": "text",
+            "value": "Though Alvarez explained that she never felt uncomfortable when going through metal detectors because she never had anything that was prohibited, she recalled feeling watched by school safety agents."
+          },
+          {
+            "type": "text",
+            "value": "“One time, I think I was taking out my ID,” Alvarez said. “And I got off line. … I let somebody skip me and [the school safety officer] was like ‘Oh, no, no, no, no, no.’ They were watching me the whole time, they wanted to see if I had something and I’m just like, ‘What’s going on with ya?”"
+          },
+          {
+            "type": "subhed",
+              "value": "Examining metal detectors at a citywide level"
+          },
+          {
+            "type": "text",
+            "value": "The presence of metal detectors in New York City high schools can be traced back to the 1980s, according to Benjamin B. Tucker, former officer of school safety and planning at the Department of Education. In schools, metal detectors are specifically used to “maintain a safe and secure school environment and prevent weapons from being brought into schools,” according to the NYPD and DOE scanning protocol, which says their continued use is “a vital security initiative and significant deterrent to weapons and violence.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "trinity_metal_detectors_bar-_3_.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "However, the effectiveness of metal detectors has been debated since their implementation. In an ultimately unsuccessful lawsuit filed in January 2020, the New York Civil Liberties Union sued the NYPD to release data about “the impact of school policing on students through the use of metal detectors.” sued the NYPD to release data about “the impact of school policing on students through the use of metal detectors.”."
+          },
+          {
+            "type": "text",
+            "value": "Rae Shih, education counsel for the education policy center at NYCLU whose work focuses on school policing, published a blog post in November 2022 with her colleague Jesse Barber regarding their research into metal detectors across high schools."
+          },
+          {
+            "type": "text",
+            "value": "“The city has a requirement that the NYPD publish the locations of metal detectors, the contraband confiscated by metal detector searches, and also a little bit about the school safety officers and the deployment within the schools or in the precincts,” Shih said. “But the NYPD does not publish that information.”"
+          },
+          {
+            "type": "text",
+            "value": "Shih took issue with the NYPD’s definition of contraband when she was documenting the items confiscated during scanning. She believes that items found during scanning are not “worth frightening a student over.”"
+          },
+          {
+            "type": "text",
+            "value": "“Sometimes kids are getting things confiscated … like markers, or a keychain that the school is saying is not allowed, or a certain type of necklace that is not immediately clear is a weapon,” Shih said."
+          },
+          {
+            "type": "text",
+            "value": "Following the unsuccessful suit, Shih and Barber have worked to piece together data about schools with metal detector presence alongside data regarding school demographics. Schools with scanners “have more Black students and fewer white students than schools in [the] analysis that did not have evidence of scanning,” Shih said, supporting their suspicions that metal detectors have had a discriminatory history in schools."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "trinity_metal_detectors-_4_.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“One of the things that we kind of expected but it’s still surprising, in a bad way, is the racial makeup of schools that have scanning,” Shih said. “Schools with scanning have more Black students and fewer white students than schools that don’t have scanning and that was something, I think anecdotally, we had known.”"
+          },
+          {
+            "type": "text",
+            "value": "In the report, Shih used New York City Lab School for Collaborative Studies and Bayard Rustin Educational Campus in Chelsea as examples of schools within the same neighborhood that have differing metal detector policies to further highlight the relationship between school demographics, funding, and the presence of metal detectors in neighboring schools."
+          },
+          {
+            "type": "text",
+            "value": "“There are schools that are on the same block or across the street, and one has scanning and one does not. And guess what the differences between the school is?” Shih said. “One is whiter or has more resources or has a different reputation, but they are in the same area.”"
+          },
+          {
+            "type": "text",
+            "value": "The NYPD’s inconsistent release of data regarding the presence of metal detectors and confiscated contraband contributes to a belief that metal detectors are effective. But this belief, Shih said, is ultimately misleading."
+          },
+          {
+            "type": "text",
+            "value": "“Every parent wants to keep their child safe,” Shih said. “Every teacher wants to make sure that the school learning environment is safe. Nobody wants a dangerous school. And so it’s understandable to think that metal detectors are an easy way to achieve that goal, but they don’t create safe schools.”"
+          },
+          {
+            "type": "subhed",
+              "value": "The push toward solutions"
+          },
+          {
+            "type": "text",
+            "value": "Instead of utilizing metal detectors and increasing school safety agents, Campbell suggested bringing in more social workers and guidance counselors as preventative measures against school violence."
+          },
+          {
+            "type": "text",
+            "value": "“The influx of guidance counselors and social workers inside of schools that have issues around violence and safety will be super important,” Campbell said. “When you have these people that are on the ground, who know these kids, and whose job it is to come up with these solutions on that level, I think you can have better wraparound services that address issues of violence and aggression … that come up in schools.”"
+          },
+          {
+            "type": "text",
+            "value": "Campbell and his team are currently working on implementing a program that would address behavioral and fight issues among students. A 10-week course targeting behavioral and fight issues amongst students is currently being piloted at Sheepshead Bay High School in Brooklyn, and is expected to be expanded across the rest of District 22."
+          },
+          {
+            "type": "text",
+            "value": "“This social justice course that we do focuses not just on the things they might have done wrong and have landed them in this classroom, but more so about how we can grow them as people and their leadership potential and keeping them in school and getting them out of school to graduate,” Campbell said."
+          },
+          {
+            "type": "text",
+            "value": "For Campbell, programs like the one being piloted at Sheepshead Bay are proof that funding programs supported by professionals equipped to address student behavioral issues will yield successful results. In West Harlem, the Center for Justice, in collaboration with Columbia’s African American and African diaspora studies program, is currently working on implementing a youth program in schools that would focus on social justice."
+          },
+          {
+            "type": "text",
+            "value": "According to Campbell, this program is still being planned, but the expected rollout timeframe would be around fall 2023."
+          },
+          {
+            "type": "text",
+            "value": "In addition to social justice themed programming, Matt Gonzales, director of the Integration and Innovation Initiative at the New York Metro Center and co-founder of the NYC Alliance for School Integration and Desegregation, said ending de facto school segregation is the starting point for addressing metal detectors and broader over-policing issues in New York City high schools."
+          },
+          {
+            "type": "text",
+            "value": "Gonzales, who sees a strong correlation between segregation and punitive discipline policy, works with schools and organizers to think about solutions to segregation and reimagining what integration looks like in schools."
+          },
+          {
+            "type": "text",
+            "value": "“As I work with schools and districts and organizers to think about the solutions to segregation, what does integration mean?” Gonzales said. “Part of that means transforming policies and practices that basically support the school-to-prison pipeline. … That includes metal detectors, but beyond that, there’s discipline policies. There’s the ways that bias within those who are implementing those policies that targets Black and brown students.”"
+          },
+          {
+            "type": "text",
+            "value": "Adams’ school budget cuts and subsequent increase in funding for the NYPD are reasons Gonzales believe that issues like over-policing and punitive policies remain present in the current school system. Gonzales explained that many youth advocacy groups across the city are demanding “counselors not cops” as part of their fight for an increased investment in schools and students."
+          },
+          {
+            "type": "text",
+            "value": "One group that is at the forefront of this fight is YA-YA Network, an independent, nonprofit organization that empowers young people to take on leadership positions and develops their advocacy skills. Shaktii Mann, director of organizing at YA-YA Network, said the lived experiences of students and the involvement of police in society are part of what prompted a greater desire amongst student activists to address over-policing in schools."
+          },
+          {
+            "type": "text",
+            "value": "“This is a trend that you see more broadly in the city but also the country, where the police and the criminal justice system has become more and more increasingly involved in our lives in places that they weren’t before,” Mann said. “It’s absolutely out of control, and it’s become more insidious and it’s escalated more and more.”"
+          },
+          {
+            "type": "text",
+            "value": "Over the years, Mann and YA-YA Network have worked to organize student activists across the city on different projects, including counter-recruiting during the height of the wars in Iraq and Afghanistan, fighting to appeal the Rockefeller Drug Laws, and helping to raise the age in New York State at which young people could be put into solitary confinement, among other efforts."
+          },
+          {
+            "type": "text",
+            "value": "Recently, the group has shifted its focus onto ending the school-to-prison pipeline, which Mann called the “most pertinent issue” for students. YA-YA Network has launched campaigns aimed to replace police in schools with counselors and encourage protocol changes to the Department of Education’s policy, Chancellor’s Regulation A432, which governs the protocols for use of metal detectors in schools."
+          },
+          {
+            "type": "text",
+            "value": "Gonzales also said that school integration will solve many of the problems that schools are facing with regard to over-policing."
+          },
+          {
+            "type": "text",
+            "value": "“We would eliminate the cultures and functions and tools of policing from our schools, because we cannot truly have integrated spaces unless they’re inclusive, unless they’re accessible, unless they’re spaces of love and wellness,” Gonzales said."
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Senior Staff Writer Aissatou Diallo can be contacted at </i><i>aissatou.diallo@columbiaspectator.com</i><i>. Follow her on Twitter at </i><a href=\"https://twitter.com/iceatwodiallo\"><i>@iceatwodiallo</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics staff member Trinity Suma can be contacted at </i><a href=\"mailto:trinity.suma@columbiaspectator.com\"><i>trinity.suma@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "A fight for decades: examining the effects of metal detectors and over-policing in New York City public schools",
+        "date": "February 17, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Aissatou-Diallo/\">Aissatou Diallo</a>",
+        "byline2": "Graphics by Trinity Suma",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1hSVPNgSuBN2-ME59c_Tc6B6kJCSWZrGe44--bv3NMd4/edit#"
       }
     }
   }
